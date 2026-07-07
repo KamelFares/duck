@@ -43,7 +43,7 @@
     </div>
     <div class="footer-bottom">
       <div class="container">
-        <p>&copy; 2026 QuackSpirits. All rights reserved. Must be 21+ to purchase.</p>
+        <p>&copy; 2026 Lucky Duck. All rights reserved. Must be 18+ to purchase.</p>
       </div>
     </div>
   </footer>
