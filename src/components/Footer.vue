@@ -6,7 +6,7 @@
     <div class="container footer-content">
       <div class="footer-brand">
         <div class="logo">
-          <span class="text-gradient">QuackSpirits</span>
+          <span class="text-gradient">Lucky Duck</span>
         </div>
         <p class="footer-desc">Curated premium alcohol surprise boxes for the sophisticated connoisseur.</p>
       </div>
